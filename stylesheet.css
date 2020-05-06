@@ -1,0 +1,28 @@
+.fbheader{
+	height: 100px;
+	background: #3b5998;
+	min-width: cover;
+	padding: 0px 184px 0px 140px;
+}
+.col-lg-7{
+	margin-top: 24px;
+}
+.col-lg-5{
+	color: #fff;
+	margin-top: 2px;
+}
+.form-controlsetting{
+	height: 37px!important;
+}
+
+section{
+	background: linear-gradient(#fefefe,#dadeeb);
+	height: 620px;
+	padding: 30px 154px;
+}
+select{
+	width: 68px!important;
+	height: 30px!important;
+	text-align: center;
+
+}
